@@ -1,0 +1,12 @@
+@charset "utf-8";
+/*
+Template Name: Touch of Purple
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+File: Featured Slider CSS
+*/
+
+#waterwheelCarousel{display:block; width:960px; height:250px; margin:0 auto; padding:25px 0 0 0; background-color:#151515;}
+#waterwheelCarousel > img{display:none; cursor:pointer;}
